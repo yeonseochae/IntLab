@@ -1,0 +1,50 @@
+
+
+.one{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.two{
+    font-size: 24px;
+    
+}
+.three{
+    font-style: italic;
+}
+.four{
+    font-weight: bold;
+}
+.five{
+    background-color: beige;
+}
+.six{
+    border: solid;
+    border-color: #fce88d;
+    border-radius: 8cm;
+    border-width: 2cm;
+    margin: 2cm;
+}
+.seven{
+    color: #2463a6;
+}
+.eight{
+    max-width: 100%;
+    background-color: #e1ed9d;
+}
+.nine{
+    padding: 1cm;
+    background-color: #2463a6;
+    color: white;
+    height: 8cm;
+    width: 8cm;
+}
+.twelve{
+    max-height: 200px;
+    min-width: 400px;
+}
+.fifteen{
+    min-height: 1cm;
+    background-color: #62a3e9;
+}
+.sixteen{
+    background-image:linear-gradient(#bef9e6, #41d287);
+} 
