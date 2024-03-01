@@ -1,14 +1,4 @@
-// const clickMe = document.querySelector('#click-me');
 
-// // console.log("clickMe: ", clickMe);
-// const paragraph = document.querySelector('.artwork-info');
-
-
-// clickMe.addEventListener('click', e =>{
-//   console.log("BUTTON CLICKED!")
-//   artworkInfo.classList.toggle("artwork-info");
-
-// })
 // Get the .artwork div
 const artworkDiv = document.querySelector('.artwork');
 
@@ -20,5 +10,8 @@ artworkDiv.addEventListener('click', function() {
     // Toggle the visibility of the .artwork-info element by adding/removing a CSS class
     artworkInfo.classList.toggle('show-info');
 });
+
+// I was working around with querySelectorAll, 
+// but I couldn't find a way to make both of the album covers work.
 
 
