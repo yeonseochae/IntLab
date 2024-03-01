@@ -16,7 +16,9 @@ body{
     width: 600px;
     height: 600px;
     position: absolute;
+
 }
+
 /* Fonts for each title */
 .title{
     font-family: "Chango", sans-serif;
@@ -35,23 +37,36 @@ body{
     width: 600px;
     height: 600px;
     background-color: white;
-    opacity: 80%;
     position: relative;
-    z-index: -1;
+    opacity: 0;
 }
 .artwork-info2{
     width: 600px;
     height: 600px;
     background-color: white;
-    opacity: 80%;
     position: relative;
-    z-index: 1;
+    opacity: 0;
+}
+.show-info{
+    opacity: 1;
+}
+.show-info2{
+    opacity: 1;
 }
 .artwork-info p {
-    font-family: Arial, Helvetica, sans-serif;
-    
+    font-family: Arial, Helvetica, sans-serif;    
 }
 .artwork-info2 p {
     font-family: Arial, Helvetica, sans-serif;  
 }
-
+#myBox{
+    background-color: lightgreen;
+    width: 300px;
+    height: 300px;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
