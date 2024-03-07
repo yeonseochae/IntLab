@@ -17,9 +17,10 @@ let.artworks = document.querySelectorAll('artworks');
 console.log("artworks", artworks);
 
 // ->Each time the document is searched, it is going to look for artwork-info
-artworkInfo.forEach(function(artwork){
+artworks.forEach(function(artwork){
     console.log("artwork", artwork)
     let info = artwork.querySelector('.artwork-info');
     console.log("info", info);
 });
+
 
