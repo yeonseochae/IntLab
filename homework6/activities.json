@@ -1,0 +1,41 @@
+{
+    "firstName": "Yeonseo",
+    "lastName": "Chae",
+    "activities": [
+        {
+            "name": "Trip to Iceland",
+            "dateStart": "1/3/24",
+            "dateEnd": "1/11/24",
+            "description": "My dad and I traveled Iceland for about a week this January.",
+            "wouldRepeat": "true"
+        },
+        {
+            "name": "Freshmen 2nd Semester",
+            "dateStart": "1/23/23",
+            "dateEnd": "5/18/23",
+            "description": "Finals for my freshmen second semester was tough. Can't remember how many all-nighters I have put to finish all of those final projects.",
+            "wouldRepeat": "false"
+        },
+        {
+            "name": "Misson Retreat",
+            "dateStart": "3/8/24",
+            "dateEnd": "3/10/24",
+            "description": "I went to Pennsylvania for a mission retreat held by our church.",
+            "wouldRepeat": "true"
+        },
+        {
+            "name": "LA, California",
+            "dateStart": "3/12/24",
+            "dateEnd": "3/15/24",
+            "description": "My visited my friend in LA during this spring break!",
+            "wouldRepeat": "true"
+        },
+        {
+            "name": "Brother's birthday",
+            "dateStart": "12/8/06",
+            "dateEnd": "12/08/06",
+            "description": "Day when my brother was born",
+            "wouldRepeat": "true"
+        }
+    ]
+}
